@@ -24,18 +24,18 @@
 
 ## LÓGICA PARA EMBARQUE ##
 ### leva: ###
-** piloto -> oficial
-** piloto <-
-** chefe_serviço -> comissária
-** chefe_serviço <-
-** piloto -> oficial
-** piloto <-
-** chefe_serviço -> comissária
-** chefe_serviço <-
-** chefe_serviço -> piloto
-** chefe_serviço <-
-** policial -> presidiário
-** piloto <-
-** piloto -> chefe_serviço
+**piloto -> oficial
+**piloto <-
+**chefe_serviço -> comissária
+**chefe_serviço <-
+**piloto -> oficial
+**piloto <-
+**chefe_serviço -> comissária
+**chefe_serviço <-
+**chefe_serviço -> piloto
+**chefe_serviço <-
+**policial -> presidiário
+**piloto <-
+**piloto -> chefe_serviço
 
 
