@@ -1,16 +1,16 @@
 # Desafio-HBSIS-Airlines
 ---- link http://dontpad.com/aula4-ex1
 
-1-piloto
-2-oficiais       
-3-oficiais	 
+* 1-piloto
+* 2-oficiais       
+* 3-oficiais	 
 
-4-chefe de serv  
-5-comissarias
-6-comissarias
+* 4-chefe de serv  
+* 5-comissarias
+* 6-comissarias
 
-7-policial
-8-presidiário
+* 7-policial
+* 8-presidiário
 
 * tripulação tecnica = ['piloto', 'oficiais'x, 'oficiais' x]
 
