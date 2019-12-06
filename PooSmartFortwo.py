@@ -14,8 +14,9 @@ class Smart_Fortwo:
         print('-----------------')
 
     def get_status(self):
-        print('|-----STATUS-----|')
+        
         if len(self.terminal) > 0:
+            print('|-----STATUS-----|')
             for pessoas in self.terminal:
                 print(' '*2, pessoas)
         else:
@@ -62,16 +63,18 @@ class Smart_Fortwo:
                 self.aviao.remove(passageiro)
                 self.terminal.append(passageiro)
                 print(passageiro)
+    
+    def retirar_passageiro(self,passageiro):
+        print(f'Voltando para o Terminal: \n{passageiro}')
+        self.aviao.remove(passageiro)
+        self.terminal.append(passageiro)
 
 
 
 
-viagem = Smart_Fortwo(terminal, aviao)
-viagem.viagem_para_aviao('piloto','oficial 1')
-viagem.desembarque_aviao('oficial 1')
-viagem.viagem_para_terminal('piloto')
-viagem.get_status()
-#continuar sequência amanhã
+
+
+
 
 
 
