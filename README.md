@@ -12,9 +12,9 @@
 * 7-policial
 * 8-presidiário
 
-* tripulação tecnica = ['piloto', 'oficiais'x, 'oficiais' x]
+* tripulação tecnica = ['piloto', 'oficiais', 'oficiais']
 
-* tripulação de cabine = ['chefe_serviço', 'comissárias'x, 'comissárias'x]
+* tripulação de cabine = ['chefe_serviço', 'comissárias', 'comissárias']
 
 * terminal = ['policial', 'presidiário']
 
