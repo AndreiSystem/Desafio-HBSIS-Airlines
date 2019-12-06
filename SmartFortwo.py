@@ -1,7 +1,7 @@
 
 #--- Funções de Embarque Smart Fortwo ---
 
-#-- Função de gerar os Passageiros que faltam Embarcar
+#-- Função de mostrar os Passageiros que faltam Embarcar
 def status(lista:list):
     print('---Status---')
     if len(lista) > 0:
