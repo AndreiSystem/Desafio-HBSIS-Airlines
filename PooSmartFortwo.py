@@ -1,9 +1,3 @@
-#-- Listando os passageiros no Terminal
-terminal = ['piloto', 'oficial 1', 'oficial 2', 'chefe de serviço', 'comissária 1', 'comissária 2', 'policial', 'presidiário']
-
-#-- Listando os passageiros embarcados no Avião
-aviao = []
-
 class Smart_Fortwo:
     def __init__(self, terminal:list, aviao:list):
         self.terminal = terminal
